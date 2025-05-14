@@ -13,7 +13,7 @@ This backend service powers a secure Military Asset Management System for tracki
 
 ## ⚙️ Tech Stack
 
-- Node.js (ES6)
+- Node.js(ES6)
 - Express.js
 - MongoDB with Mongoose
 - JWT Authentication
