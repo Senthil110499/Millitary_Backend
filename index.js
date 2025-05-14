@@ -4,7 +4,7 @@ import cors from 'cors';
 import connectDB from './database/Dbconfig.js';
 import authRoutes from './routes/authRoutes.js';
 import assetRoutes from './routes/assetRoutes.js';
-import purchaseRoutes from './routes/purchaseRoutes.js';
+import purchaseRoutes from './routes/PurchaseRoutes.js';
 import transferRoutes from './routes/transferRoutes.js';
 import assignmentRoutes from './routes/assignmentRoutes.js';
 
